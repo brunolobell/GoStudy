@@ -8,7 +8,7 @@ Base code to show language structure.
 
 ## Echo
 Using the "os" package to take the arguments passed to the program from the command line and concatenate them.
-> go run Echo1.go Learning GoLang
+> go run Echo2.go Learning GoLang
 
 ## Conversor
 Using the strconv package to convert a value to float64, command structure ("if" and "else") and the repetition structure ("for"). Convert KM to M and °C to K. 
